@@ -9,9 +9,19 @@ Questions:
 Define Software Engineering:
 
 What is software engineering, and how does it differ from traditional programming?
+
+ Definition: Software engineering is a discipline that combines coputer science engineering principles and programming languages to develop software solutons which solve real world problems.
+ Differences: Software engineering focuses broadly on the software using its engineering, computer science principles to construct the structure of the software while traditional programming involes writing code 
+ for specific tasks.
 Software Development Life Cycle (SDLC):
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+ 1. Planning and Analysis: This phase involves gather information from stakeholders and gather the required information.
+ 2. Design: this phase involves creating architecture, data models and user interfaces of the software.
+ 3. Implemention: This is the phae where code is written to solve the real worl problems.
+ 4. Testing: This is the phae where the software is tested to check if it meets the uer requirements.
+ 5. Deployment: This is the phase where the project is being made to be available to all users. i.e launching the website.
+ 6. Maintenance: This is the phase where the software is being updated and being debugged.
 Agile vs. Waterfall Models:
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
